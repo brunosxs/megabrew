@@ -1,0 +1,6 @@
+[submodule "dependencies/docker-sgdk"]
+	path = dependencies/docker-sgdk
+	url = https://gitlab.com/doragasu/docker-sgdk.git
+[submodule "dependencies/sgdk"]
+	path = dependencies/sgdk
+	url = https://github.com/Stephane-D/SGDK.git
